@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Q10</string>
+    <string name="IC">Insert Contact</string>
+    <string name="cc">Create contact</string>
+    <string name="ue">Update existing</string>
+    <string name="m">Mobile</string>
+    <string name="pho">(650)253-0000</string>
+</resources>

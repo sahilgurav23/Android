@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Q11</string>
+    <string name="bt1">Button 1</string>
+    <string name="bt2">Button 2</string>
+    <string name="bt3">Button 3</string>
+    <string name="bt4">Button 4</string>
+    <string name="bt5">Button 5</string>
+    <string name="bt6">Button 6</string>
+    <string name="bt7">Button 7</string>
+    <string name="bt8">Button 8</string>
+    <string name="bt9">Button 9</string>
+    <string name="bt10">Button 10</string>
+    <string name="bt11">Button 11</string>
+
+</resources>

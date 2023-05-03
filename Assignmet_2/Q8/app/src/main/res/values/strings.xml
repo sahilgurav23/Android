@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Q8</string>
+    <string name="cir">Convert Interest Rates</string>
+    <string name="rtc">Rate to convert%</string>
+    <string name="Ytm">Yearly to Monthly</string>
+    <string name="Mty">Monthly to Yearly</string>
+    <string name="c">CONVERT</string>
+    <string name="cri">Converted Rate is</string>
+</resources>
