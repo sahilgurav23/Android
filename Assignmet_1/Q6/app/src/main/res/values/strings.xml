@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Railway Ticket Booking</string>
+    <string name="well">Wellcome</string>
+    <string name="wrp">Welcome Rovel Pinto</string>
+    <string name="ad">Address</string>
+    <string name="ai">Adhar ID</string>
+    <string name="aiw">1234 5678 7890</string>
+    <string name="name">Name </string>
+    <string name="rp">Rovel Pinto</string>
+    <string name="db">Date of Birth</string>
+    <string name="date">29/05/1992</string>
+    <string name="g">Gender</string>
+    <string name="m">Male</string>
+    <string name="mu">Mumbai</string>
+    <string name="c">Contact</string>
+    <string name="num">9876543210</string>
+
+
+
+</resources>

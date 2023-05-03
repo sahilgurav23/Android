@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Q5</string>
+    <string name="FN">First Name :</string>
+    <string name="MN">Middle Name :</string>
+    <string name="LS">Last Name: </string>
+    <string name="EM">Email ID: </string>
+    <string name="DB">Date of Birth: </string>
+    <string name="AD">Address: </string>
+    <string name="BT">Submit</string>
+</resources>
