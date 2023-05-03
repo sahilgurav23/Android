@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bname"
+                android:gravity="center"
+                android:id="@+id/daytv"
+                android:layout_marginTop="10dp"
+                android:textSize="50sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bname"
+                android:gravity="center"
+                android:id="@+id/monthtv"
+                android:textSize="50sp"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bname"
+                android:gravity="center"
+                android:id="@+id/yeartv"
+                android:textSize="50sp"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bname"
+                android:gravity="center"
+                android:id="@+id/hourstv"
+                android:textSize="50sp"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bname"
+                android:gravity="center"
+                android:id="@+id/minutestv"
+                android:textSize="50sp"
+                android:layout_marginTop="10dp"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TimePicker
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/clock"
+        android:timePickerMode="clock"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set Alarm"
+        android:textColor="@color/black"
+        android:backgroundTint="#FF9800"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:id="@+id/setalarm"
+        android:textSize="30sp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Cancel Alarm"
+        android:textColor="@color/black"
+        android:backgroundTint="#FF9800"
+        android:layout_gravity="center"
+        android:id="@+id/cancelalarm"
+        android:textSize="30sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:text="No Alarm is set"
+        android:textSize="40sp"
+        android:id="@+id/text"
+        android:textAlignment="center" />
+
+</LinearLayout>

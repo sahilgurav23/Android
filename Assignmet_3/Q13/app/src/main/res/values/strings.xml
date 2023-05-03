@@ -1,0 +1,7 @@
+<resources>
+    <string name="n">Name</string>
+    <string name="cn">Contact Number</string>
+    <string name="ei">Email ID</string>
+    <string name="s">Submit</string>
+    <string name="app_name">Q13</string>
+</resources>
